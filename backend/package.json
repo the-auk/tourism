@@ -1,0 +1,16 @@
+{
+  "name": "bains_tourism_backend",
+  "version": "1.0.0",
+  "description": "server for Bains Tourism mobile app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ripandeep Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "google-oauth-jwt": "^0.2.0",
+    "pg": "^8.11.3"
+  }
+}
